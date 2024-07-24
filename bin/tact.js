@@ -32,7 +32,7 @@ void meowModule.then(
 
     Learn more about Tact:        https://docs.tact-lang.org
     Join Telegram group:          https://t.me/tactlang
-    Follow X/Twitter account:     https://twitter.com/tact_language`,
+    Follow X account:     https://X.com/tact_language`,
             {
                 importMeta: {
                     url: new URL("file://" + __dirname + __filename).toString(),
